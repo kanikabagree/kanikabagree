@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kanika Bagree
 - 👀 I’m interested in Statistics and Machine Learning 
-- 🌱 I’m currently learning Econometrics and Statistical Learning.
+- 🌱 I’m currently learning  Econometrics,Time Series Analysis and Statistical Learning.
 - 💞️ I’m looking to collaborate on a Machine Learning project
 - 📫 How to reach me mail me @ bagreekanika@gmail.com
 
